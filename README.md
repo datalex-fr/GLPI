@@ -4,6 +4,11 @@ Monitoring , inventory and IT service management with GLPI
 ---
 # 
 
+
+
+https://grafana.com/static/img/docs/whatsnew_2_5/panel_resize.gif
+
+
 **Cahier des charges et étude de solution**
 
 -   Gestion et support multilingue

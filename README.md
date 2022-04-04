@@ -53,4 +53,4 @@ Procédure d'installation
 
 
 
-![]https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-MhdSzY_7K9n5aQAlJq8%2F-MhiE2OBUiGMb8HzfFFq%2F-MhiFQ0ayILZYxY9w4Jx%2Fimage.png?alt=media&token=fabfd63c-940d-40d6-b089-5236b7f0ff10)
+![](https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-MhdSzY_7K9n5aQAlJq8%2F-MhiE2OBUiGMb8HzfFFq%2F-MhiFQ0ayILZYxY9w4Jx%2Fimage.png?alt=media&token=fabfd63c-940d-40d6-b089-5236b7f0ff10)

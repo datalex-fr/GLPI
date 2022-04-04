@@ -43,4 +43,4 @@ Procédure d'installation
 **L’installation se fera sur le terminal en tant que root du serveur Ubuntu en stack LAMP**
 
 
-#Procédure dans le PDF joint
+# Procédure dans le PDF joint
